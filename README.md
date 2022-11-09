@@ -6,4 +6,4 @@
 
   - Another file in the Python folder is "MongoDB_ETL_HR_management" where I used python and MongoDB to perform ETL processing and created another data warehouse called "HR_management_DW3".
 
-  - The "data" folder contains the .json filed I used for the ETL processing I did with MongoDB. 
+  - The "data" folder contains the .json files I used for the ETL processing I did with MongoDB. 
